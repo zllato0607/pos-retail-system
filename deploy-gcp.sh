@@ -10,7 +10,7 @@ set -e  # Exit on any error
 APP_DIR="/var/www/pos-retail-system"
 GIT_REPO="https://github.com/zllato0607/pos-retail-system.git"
 BRANCH="main"
-DOMAIN_OR_IP="34.169.96.234"
+DOMAIN_OR_IP="35.188.27.103"
 
 # Database Configuration
 DB_NAME="fixmobi1_pos"
