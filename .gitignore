@@ -1,6 +1,1 @@
-node_modules
-dist
-.env
-database.db
-*.log
-.DS_Store
+
